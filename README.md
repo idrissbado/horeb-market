@@ -1,4 +1,11 @@
 # Horeb Market E-commerce Platform
+![image](https://github.com/user-attachments/assets/f3f6d907-0ac7-4870-93f4-8237292a1c5a)
+
+![image](https://github.com/user-attachments/assets/13a0655f-8df4-4836-ae20-318665bc8577)
+![image](https://github.com/user-attachments/assets/663d183f-db27-4421-9255-a0de52275849)
+
+
+
 
 A comprehensive e-commerce platform built with Next.js, Tailwind CSS, and shadcn/ui components.
 
@@ -11,7 +18,7 @@ A comprehensive e-commerce platform built with Next.js, Tailwind CSS, and shadcn
 - Order management
 - Seller dashboard
 - Admin panel
-- And more!
+- Chabot assistant
 
 ## Prerequisites
 
