@@ -1,0 +1,11 @@
+{
+  "/placeholder.svg/route": "app/placeholder.svg/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
+  "/dashboard/orders/page": "app/dashboard/orders/page.js",
+  "/dashboard/become-seller/page": "app/dashboard/become-seller/page.js",
+  "/products/page": "app/products/page.js",
+  "/dashboard/profile/page": "app/dashboard/profile/page.js"
+}

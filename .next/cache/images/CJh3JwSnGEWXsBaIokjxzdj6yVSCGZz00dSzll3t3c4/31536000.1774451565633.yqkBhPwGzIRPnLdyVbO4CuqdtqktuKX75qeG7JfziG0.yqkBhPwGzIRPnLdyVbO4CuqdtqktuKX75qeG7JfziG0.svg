@@ -1,0 +1,16 @@
+
+    <svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+      <rect width="800" height="600" fill="hsl(139, 70%, 80%)" />
+      <text 
+        x="50%" 
+        y="50%" 
+        font-family="system-ui, sans-serif" 
+        font-size="60px" 
+        fill="#000000" 
+        text-anchor="middle" 
+        dominant-baseline="middle"
+      >
+        Contact Us
+      </text>
+    </svg>
+  

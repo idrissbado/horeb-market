@@ -1,0 +1,16 @@
+
+    <svg width="120" height="60" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+      <rect width="120" height="60" fill="hsl(229, 70%, 80%)" />
+      <text 
+        x="50%" 
+        y="50%" 
+        font-family="system-ui, sans-serif" 
+        font-size="12px" 
+        fill="#000000" 
+        text-anchor="middle" 
+        dominant-baseline="middle"
+      >
+        Brand 1
+      </text>
+    </svg>
+  
