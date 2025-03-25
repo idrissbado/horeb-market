@@ -28,6 +28,6 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/horeb-market.git
+git clone https://github.com/idrissbado/horeb-market.git
 cd horeb-market
 
