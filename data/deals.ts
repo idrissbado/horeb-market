@@ -1,0 +1,31 @@
+export const deals = [
+  {
+    id: "deal-1",
+    name: "Premium Wireless Headphones",
+    price: 129.99,
+    originalPrice: 199.99,
+    discount: 35,
+    image: "/placeholder.svg?height=400&width=400&text=Headphones",
+    category: "Electronics",
+    rating: 4.8,
+    reviewCount: 120,
+    type: "flash",
+    endsIn: "2d 5h 30m",
+    featured: true,
+  },
+  {
+    id: "deal-2",
+    name: "Smart Watch with Heart Rate Monitor",
+    price: 149.99,
+    originalPrice: 249.99,
+    discount: 40,
+    image: "/placeholder.svg?height=400&width=400&text=Watch",
+    category: "Electronics",
+    rating: 4.6,
+    reviewCount: 85,
+    type: "flash",
+    endsIn: "1d 12h 45m",
+    featured: true,
+  },
+  // Add more deals as needed
+] 

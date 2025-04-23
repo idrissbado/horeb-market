@@ -1,0 +1,16 @@
+
+    <svg width="600" height="800" viewBox="0 0 600 800" xmlns="http://www.w3.org/2000/svg">
+      <rect width="600" height="800" fill="hsl(123, 70%, 80%)" />
+      <text 
+        x="50%" 
+        y="50%" 
+        font-family="system-ui, sans-serif" 
+        font-size="60px" 
+        fill="#000000" 
+        text-anchor="middle" 
+        dominant-baseline="middle"
+      >
+        Shopping Experience
+      </text>
+    </svg>
+  
